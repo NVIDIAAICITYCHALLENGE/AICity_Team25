@@ -7,7 +7,7 @@ are in the folders 'Detectnet' and 'Yolo' respectively. The folders contain the 
 The model generated using Detectnet has to be imported into Digits and can be tested using any image. The DIGITS GUI is easy to use and self explanatory.
 
 The model generated usng Darknet and Yolo can be tested on images as well as videos. The weights file is named as yolo-aic_30000.weights
-which is located inside the 'Yolo' folder.
+which can be downloaded from the following link https://drive.google.com/file/d/0B9sz9NrDfT6FTzJCd2E3ZzRPZ1E/view?usp=sharing
 
 First Darknet needs to be cloned from https://github.com/pjreddie/darknet and has to be installed. Copy the yolo-aic.data and yolo-aic.cfg into
 the '/darknet/cfg/' folder.
