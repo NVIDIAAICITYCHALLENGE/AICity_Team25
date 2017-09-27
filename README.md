@@ -24,4 +24,4 @@ Command to test the model using a video is:
 ./darknet detector demo cfg/yolo-aic.data cfg/yolo-aic.cfg yolo-aic_30000.weights 'path to the video to be tested'
 ```
 
-Our model generated with Darknet and YOLO has a Mean Average Precision (mAP) of 0.31 and it's ranks fourth amongst all the teams.
+Our model generated with Darknet and YOLO has a Mean Average Precision (mAP) of 0.31 and it's ranks fourth amongst all the teams for AIC_1080 dataset.
